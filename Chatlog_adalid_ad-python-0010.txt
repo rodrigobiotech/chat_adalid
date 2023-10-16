@@ -1,0 +1,965 @@
+
+
+
+Search: in:#ad-python-0010
+
+
+
+
+
+Adalid
+
+
+
+
+
+
+
+
+
+
+ad-python-0010
+
+
+
+
+41
+
+ad-python-0010
+@Juan Rangel
+ created this private channel on March 1st. This is the very beginning of the ad-python-0010 channel. Description: Curso ADALID Python 0010 (edit)
+Messages and files older than 90 days are hidden
+Upgrade to a paid plan to unlock your team’s full message and file history, plus all the premium features of the Pro plan.
+
+
+Camila Valdebenito Leiva
+  4:04 AM
+Holaa, el contador llego a 0 y me sacó, me mandan el link ? :eyes:
+:scream:
+1
+
+
+React
+
+Reply
+
+4:04
+porfis
+
+
+Administrativa - Savka Franjola Sau
+  8:58 PM
+Estimados/as queremos informar que las clases de hoy jueves 20 Julio serán suspendidas por motivos de fuerza mayor del docente debido a que en el sector que reside hay un corte de suministro de luz programado para hoy, por lo que se retomaran las clases mañana Viernes 21 de Julio con normalidad, estas serán reprogramadas para el final curso.
+Se sugiere que puedan avanzar y ponerse al día con las actividades, aprovechando este tiempo al máximo.
+¡¡Esperamos su comprensión, que tengan una excelente tarde!!
+:white_check_mark:
+1
+
+
+
+Victor Dides
+  12:03 AM
+Hoy hay clases??
+:+1:
+1
+
+
+
+Adviser - Carlos Maldonado Ruiz
+  12:58 AM
+Sip
+
+
+Adviser - Carlos Maldonado Ruiz
+  4:14 AM
+Chicos en esta página hay harto material explicativo y de usos de Django
+se que esta en ingles, pero se puede traducir y hay harto material gratuito.
+https://realpython.com/
+realpython.comrealpython.com
+Python Tutorials – Real Python
+Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
+
+
+Coordinadora - Aniza Goenaga
+  9:49 PM
+¡Descubre las ventajas de la IA en la búsqueda de empleo en la industria TI!
+Únete a nuestro panel de expertos y regístrate de forma gratuita en OP GROUND, la plataforma especializada en reclutamiento y selección de TI con IA.
+https://us06web.zoom.us/webinar/register/WN_CBbPE4OhROCsLKL5T9qiGQ
+:white_check_mark:
+1
+
+
+
+Administrativa - Savka Franjola Sau
+  7:28 PM
+Buenas tardes estimados/as estudiantes espero estén muy bien, les comparto este documento con los porcentajes de actividades síncronas y asíncronas que llevan hasta ahora.
+Este reporte se les enviará semanalmente por esta vía para que puedan estar en conocimiento de cómo va su avance.
+Que tengan feliz tarde
+Saludos. –
+PDF
+ 
+
+Sincronía y asincronía - 0010 (5).pdf
+PDF
+:white_check_mark:
+1
+
+
+
+Coordinadora - Aniza Goenaga
+  9:54 PM
+Estimados(as) buenas tardes.
+Espero estén muy bien, paso a informar que hemos revisado la plataforma y nos hemos percatado que el módulo 6 tiene 2 sprint, uno individual y otro grupal. Uno es obligatorio y el otro complementario. Es por esto que hemos determinado mantener que solo el sprint grupal sea obligatorio y el sprint individual sea complementario (esto quiere decir que es opcional desarrollarlo).
+Esto les dará tiempo para que la clase del 01 de agosto puedan realizar un repaso de los contenidos del módulo y el día 02 de agosto desarrollar el sprint grupal del módulo para entregar este el día 03 de agosto.
+Que tengan una excelente jornada hoy!!
+Saludos.
+:raised_hands:
+1
+
+
+
+Coordinadora - Aniza Goenaga
+  6:18 PM
+¿Aún no ingresas a OP GROUND?
+Una única conversación con Opi, chatbot de Op Ground, equivale hoy a ser entrevistado por 771 empresas ¡Olvídate de las entrevistas y deja que las ofertas vengan a ti!
+ Entrevistate con Opi, el chatbot.
+ Recibe ofertas de tu interés.
+ Elige la empresa en la que crecerás.
+Video tutorial
+Link de acceso a OP GROUND
+Equipo AWAKELAB by Adalid.
+:white_check_mark:
+2
+
+
+
+Administrativa - Anyeli Mantilla
+  8:01 PM
+was added to ad-python-0010 by Juan Rangel
+.
+
+
+Administrativa - Anyeli Mantilla
+  9:03 PM
+Buenas tardes a todos, mi nombre es Anyeli Mantilla.
+Les informo que partir del día de hoy seré la Asistente Administrativa de este curso.
+Espero poder ser de ayuda frente a situaciones que requiera cada uno y una de ustedes. Les dejare mis canales de contacto para una comunicación más fluida.
+Un gusto y estamos en contacto!
+Correo electrónico: anyeli.mantilla@adalid.cl
+Celular: +56984423114
+:white_check_mark:
+1
+:+1:
+1
+
+
+
+Administrativa - Anyeli Mantilla
+  3:39 PM
+Estimados/as estudiantes espero estén muy bien, acá les comparto el documento con los porcentajes de actividades síncronas y asíncronas que llevan hasta ahora.
+Este reporte fue actualizado el día de ayer en la tarde
+Que tengan feliz día
+Saludos.-
+PDF
+ 
+
+Sincronía y asincronía - 0010.pdf
+PDF
+:white_check_mark:
+1
+:+1:
+1
+
+
+
+Administrativa - Anyeli Mantilla
+  6:07 PM
+Estimados/as espero se encuentren muy bien, sólo paso por acá para recordarles que es MUY IMPORTANTE que puedan estar al día con las actividades del Nodo Virtual y notas de sprint ya que estos requisitos son determinantes para poder aprobar el Bootcamp y certificarse.
+Esperamos puedan ir avanzando durante el fin de semana
+Que tengan una feliz tarde, saludos! :raised_hands::skin-tone-2:
+
+
+Administrativa - Anyeli Mantilla
+  6:18 PM
+Buenas tardes estimados/as esperamos estén muy bien, ya que para nosotros es muy importante saber su opinión por favor les pedimos que puedan completar la siguiente encuesta con respecto a cómo está siendo tu experiencia de aprendizaje en el Bootcamp.
+https://form.typeform.com/to/HTU7Svyf
+Quedamos muy atentos a tu respuesta :pray: (edited) 
+form.typeform.com
+Encuesta Full Stack Python 0010 INTERMEDIA, AWAKER Y CONTENIDOS
+Convierte la recopilación de datos en toda una experiencia con Typeform. Crea increíbles formularios, encuestas, tests y mucho más. Pruébalo GRATIS. (15 kB)
+https://form.typeform.com/to/HTU7Svyf
+
+
+
+Hans Borgoño
+  4:00 AM
+Me pueden enviar el link de zoom xfa  ..
+
+
+Joaquín Vielma
+  4:01 AM
+https://us06web.zoom.us/j/83178077709?pwd=ZVg5Qkd4ZjdGcWN3bjBjdjVNcnZvQT09
+
+
+Hans Borgoño
+  4:13 AM
+Gracias :+1:
+
+
+Administrativa - Anyeli Mantilla
+  7:59 PM
+Estimados/as estudiantes espero estén muy bien, acá les comparto el documento con los porcentajes de actividades síncronas y asíncronas que llevan hasta ahora.
+Que tengan feliz tarde
+Saludos.-
+PDF
+ 
+
+Sincronía y asincronía - 0010.pdf
+PDF
+
+
+Administrativa - Anyeli Mantilla
+  7:07 PM
+Estimados/as espero se encuentren muy bien, sólo paso por acá para recordarles que es MUY IMPORTANTE que puedan estar al día con las actividades del Nodo Virtual y notas de sprint ya que estos requisitos son determinantes para poder aprobar el Bootcamp y certificarse.
+Esperamos puedan ir avanzando durante esta semana
+Que tengan una feliz tarde, saludos! :raised_hands::skin-tone-2:
+:white_check_mark:
+1
+
+
+
+Administrativa - Anyeli Mantilla
+  11:33 PM
+Estimados/as estudiantes espero estén muy bien, acá les comparto el documento con los porcentajes de actividades síncronas y asíncronas que llevan hasta ahora.
+Que tengan feliz tarde
+Saludos.-
+PDF
+ 
+
+Sincronía y asincronía - 0010.pdf
+PDF
+:white_check_mark:
+1
+:+1:
+1
+
+
+
+Adviser - Carlos Maldonado Ruiz
+  4:05 PM
+Chiquillos
+acá esta el link donde se pueden inscribir para la feria
+https://form.typeform.com/to/YR0RAKip
+form.typeform.com
+AWAKE FEST TALENT
+Convierte la recopilación de datos en toda una experiencia con Typeform. Crea increíbles formularios, encuestas, tests y mucho más. Pruébalo GRATIS. (15 kB)
+https://form.typeform.com/to/YR0RAKip
+
+
+
+Sidney Corey Lazo Ramírez
+  4:00 AM
+Se cerró la sesión o se me cerró a mi?
+
+
+Xabier Coloma
+  4:00 AM
+a todos al parecer
+
+
+Adviser - Carlos Maldonado Ruiz
+  4:00 AM
+a todos
+4:00
+https://us06web.zoom.us/j/89193973810?pwd=Y3BmaWdwa054ZldwV3RYeVdQMDNkQT09
+4:01
+@here esta el link
+
+
+Romina Velasco
+:speech_balloon:  4:03 AM
+lo envie al grupo de wsp
+4:03
+esperando que nos dejen ingresar
+
+
+Coordinadora - Aniza Goenaga
+  3:00 PM
+Estimados(as), buenos días.
+Paso a recordarles que estamos a pocos días de la realización de la feria laboral en el metaverso, organizada por Intermediación laboral junto a el departamento de comunicaciones de OTEC Adalid. Es por ello que les recuerdo que deben completar el siguiente formulario  porque por este medio es que se les dará acceso al metaverso https://form.typeform.com/to/YR0RAKip?typeform-source=www.adalid.cl
+Buen inicio de semana
+Saludos.
+form.typeform.com
+AWAKE FEST TALENT
+Convierte la recopilación de datos en toda una experiencia con Typeform. Crea increíbles formularios, encuestas, tests y mucho más. Pruébalo GRATIS. (15 kB)
+https://form.typeform.com/to/YR0RAKip?typeform-source=www.adalid.cl
+
+
+
+Adviser - Carlos Maldonado Ruiz
+  4:15 AM
+https://www.deeplearning.ai/short-courses/
+deeplearning.aideeplearning.ai
+Short Courses
+Take your generative AI skills to the next level with short courses from DeepLearning.AI. Enroll today to learn directly from industry leaders, and practice generative AI concepts via hands-on exercises. Available free for a limited time. (689 kB)
+https://www.deeplearning.ai/short-courses/
+
+4:17
+https://www.linkedin.com/company/inkua/
+linkedin.comlinkedin.com
+InkuA - Incubator & Accelerator | LinkedIn
+InkuA - Incubator & Accelerator | 43,943 followers on LinkedIn. Creating the world we want! | Where careers are upgraded!
+As a dynamic and inclusive virtual organization, we provide a safe yet stimulating environment for professionals like you to gain valuable experience and reach new heights in your career.
+With a strong community of dedicated professionals, INKUA empowers individuals to create no-risk peer projects and impactful initiatives that make a positive difference in the world.
+4:20
+https://form.typeform.com/to/YR0RAKip?typeform-source=www.adalid.cl
+form.typeform.com
+AWAKE FEST TALENT
+Convierte la recopilación de datos en toda una experiencia con Typeform. Crea increíbles formularios, encuestas, tests y mucho más. Pruébalo GRATIS. (15 kB)
+https://form.typeform.com/to/YR0RAKip?typeform-source=www.adalid.cl
+
+
+
+Luis Valcárcel
+  6:11 PM
+was added to ad-python-0010 by Juan Rangel
+.
+
+
+Coordinadora - Aniza Goenaga
+  12:30 AM
+Estimados(as), buenas tardes.
+Espero que se encuentres bien. Les escribo para informar que debido a reclamos ingresado ante las entidades contratantes nos han levantado una supervisión administrativa en la cual nos solicitan suspender las clases a partir de HOY, con la finalidad de que como organismo ejecutor propongamos un plan de nivelación de 7 días para subsanar la brecha de calidad de contenido de cara a los estudiantes. Cabe destacar que estos días de nivelación serán de carácter voluntario, al mismo tiempo esperamos que estos días sean de provecho para ponerse al día en el consumo de actividades pendientes.
+Hoy nos encontramos coordinando este plan de nivelación, el cual esperamos sea validado mañana para iniciar el día sábado 26 de agosto, día que teníamos programada la primera sesión de repaso. Apenas tengamos la validación de OTIC Sofofa se lo haremos saber por este medio para informarles los días y horarios de estos 7 días de nivelación.
+Por el momento se ha suspendido la actividad programada de repaso para este sábado 26 de agosto.
+Esperamos su comprensión.
+Que tengan una excelente tarde.
+Saludos.
+
+
+Romina Velasco
+:speech_balloon:  12:41 AM
+Hola aniza, que pasa con los pagos en este caso?
+
+
+Coordinadora - Aniza Goenaga
+  1:20 AM
+Romina, buenas tardes. Te comento,  OTIC Sofofa nos solicito un plan de nivelación de 7 días con asistencia de carácter voluntario, lo cual no tiene de por medio pago de subsidio. Ya que estos días son ingresados a sistema como suspensión, ya que la nivelación es una medida de subsanación por brecha de calidad. Y estos días son agregados al final del cronograma inicial que teníamos de clases.
+Hoy debemos esperar a que nos conteste OTIC Sofofa con la validación del plan de nivelación, esperamos que contesten mañana en horario am para iniciar este plan de nivelación mañana en horario pm. Les solicito estar atentos ya que les estaré comunicando vía correo electrónico y por este medio.
+Que tengas una buena tarde.
+
+
+caterin mendez
+  1:49 AM
+Aniza buenas tardes, a mi percepción debiese ser pagado ya que la nivelación y la suspensión es por parte de ustedes, hacerlo de carácter voluntario es solo para ahorrarse ese costo, además si quieren subsanar la calidad del contenido entregado creo que la manera de no siendo costeado es un poco injusto, pero en fin, ¿Esta nivelación me imagino que se realizarían en el mismo horario del bootcamp?
+
+
+Coordinadora - Aniza Goenaga
+  2:31 AM
+Estimada Caterin, comprendo su inquietud. Le comento que la orden viene desde OTIC Sofofa, el organismo contratante es quien nos indica que deben ser estas 7sesiones de carácter voluntario, no es una determinación del OTEC. Al mismo tiempo nos encontramos a la espera de la validación de la propuesta como comenté en el mensaje inicial, esperamos que nos permitan sumar los dos Sábados que teníamos contemplados inicialmente para repasar contenidos, solo nos queda esperar la respuesta de OTIC Sofofa para confirmar y oficializar la información.
+Muchas gracias por escribirnos.
+Saludos.
+
+
+Victor Dides
+  3:35 PM
+Hola, que ocurre con el.sprint de hoy y las clases? Se mantendrán suspendidas hasta nuevo aviso?
+
+
+Coordinadora - Aniza Goenaga
+  4:27 PM
+Estimado Victor y curso, buenos días.
+Espero se encuentren bien. Les comento que las clases están suspendidas por solicitud de OTIC Sofofa, como les informaba ayer en la tarde enviamos la propuesta del plan de nivelación que nos han solicitado y nos encontramos en espera de esta validación para poder iniciar los 7 días de nivelación y posterior a estos se retomarán las clases con normalidad. Es ahí donde tendrán las últimas clases del módulo 7 y podrán realizar el sprint de dicho módulo, dando continuidad con el módulo 8 y el examen de certificación. Posterior a esto tendrán el módulo 9 de empleabilidad y cierre del curso.
+Las fechas serán reprogramadas apenas tengamos la validación de la nivelación. Favor les solicitamos estar atentos a este medio de comunicación y sus correos electrónicos, medios por los cuales les estaremos informando noticias sobre las nuevas fechas.
+Saludos. (edited) 
+
+
+Coordinadora - Aniza Goenaga
+  7:39 PM
+Estimados(as), buenas tardes.
+Junto con saludar, esperando que se encuentren bien. Les escribo para comunicar que acabamos de salir de reunión con OTIC Sofofa y Talento Digital para Chile, quienes nos han validado el plan de nivelación propuesto ayer en la tarde. Por lo cual paso a informar que esta nivelación inicia HOY 25 de agosto, recordar que es de carácter voluntario, esperamos que sean de gran ayuda estas sesiones programadas.
+Cronograma de nivelación:
+Fecha: 25 y 26 de agosto y de Martes 29 de agosto al Sábado 02 de septiembre.
+No se realizarán sesiones de nivelación los días 27 y 28 de agosto.
+Contenidos módulo 6:
+Día 1 (25 de agosto): 3 Horas de AE1: Describir las características fundamentales del framework Django para el desarrollo de aplicaciones empresariales acorde al entorno Python, AE2: Utilizar las herramientas administrativas provistas por el framework para la configuración de un nuevo proyecto web Django, donde se impartirá de forma teórica el contenido, con ejemplificación y verificación del mismo en pantalla, en forma sincrónica, sin trabajos en grupo.
+Día 2 (26 de agosto): 3 Horas. Práctica con relator en sala y que cada alumno muestre sus trabajos para verificar el avance y aprendizaje.
+Día 3 (29 de agosto): 3 Horas de AE3: Implementar una aplicación web Django utilizando templates para el despliegue de páginas con contenido dinámico que dan solución a un requerimiento, AE4 implementar formularios en un aplicativo web
+utilizando framework Django para la captura y procesamiento de información dando solución a un problema, donde se impartirá de forma teórica el contenido, con ejemplificación y verificación del mismo en pantalla, en forma sincrónica, sin trabajos en grupo.
+Día 4 (30 de agosto): 3 Horas. Práctica con relator en sala y que cada alumno muestre sus trabajos para verificar el avance y aprendizaje
+Día 5 (31 de agosto): 3 Horas. AE5: Implementar mecanismos autenticación y autorización para el establecimiento de controles de seguridad utilizando el framework Django, AE6: Implementar módulo de administración de usuarios y
+permisos utilizando el módulo preconstruido provisto por el framework Django, donde se impartirá de forma teórica el contenido, con ejemplificación y verificación del mismo en pantalla, en forma sincrónica, sin trabajos en grupo.
+Día 6 (01 de septiembre): 3 Horas. Práctica con relator en sala y que cada alumno muestre sus trabajos para verificar el avance y aprendizaje.
+Contenidos módulo 7:
+Día 7 (02 de septiembre): 3 Horas. AE1: Describir las características fundamentales de la integración del framework Django con bases de datos, AE2: Implementar la capa de modelo de acceso a datos del aplicativo utilizando entidades no relacionadas para dar solución a una problemática, donde se impartirá de forma teórica el contenido, con ejemplificación y verificación del mismo en pantalla, en forma sincrónica, sin trabajos en grupo.
+Horarios: Martes a Viernes de 19:00 a 22:00 hrs
+         Sábados de 09:00 a 12:00 hrs
+Cabe agregar que el día 04 de septiembre se retoman las clases con normalidad.
+El día 05 y 06 de septiembre serán para desarrollar el sprint del módulo 7.
+El día 07 de septiembre iniciarán con el módulo 8 de Desarrollo de portafolio de un producto digital, teniendo fecha de examen de certificación el día 12 de septiembre desde las 19:00 a las 23:00 hrs, y podrán entregar su caso desarrollado al día siguiente 13 de septiembre a las 10:00 hrs.
+Los días festivos del mes de septiembre serán sábado 16, lunes 18 y martes 19. Estos días no tendrán clases.
+Último día de clases 20 de septiembre.
+Esperamos su comprensión y buena acogida.
+Saludos. (edited) 
+7:43
+Estimados(as), favor considerar el último correo enviado, se inicia hoy las sesiones de nivelación.
+Saludos.
+
+
+Administrativa - Anyeli Mantilla
+  10:14 PM
+Estimados/as espero se encuentren muy bien, sólo paso por acá para recordarles que es MUY IMPORTANTE que puedan estar al día con las actividades del Nodo Virtual y notas de sprint ya que estos requisitos son determinantes para poder aprobar el Bootcamp y certificarse.
+Esperamos puedan ir avanzando durante el fin de semana
+Que tengan una feliz tarde, saludos! :raised_hands::skin-tone-2:
+
+
+Vania Chávez
+  6:57 PM
+was added to ad-python-0010 by Juan Rangel
+.
+
+
+Administrativa - Anyeli Mantilla
+  11:13 PM
+Estimados/as estudiantes espero estén muy bien, acá les comparto el documento con los porcentajes de actividades síncronas y asíncronas que llevan hasta ahora.
+Que tengan feliz tarde
+Saludos.-
+PDF
+ 
+
+Sincronía y asincronía - 0010.pdf
+PDF
+
+
+
+
+Awaker - Mabel Ossandon
+  8:49 PM
+was added to ad-python-0010 by Juan Rangel
+.
+
+
+Coordinadora - Aniza Goenaga
+  11:31 PM
+Estimados(as), buenas tardes.
+Junto con saludar, espero que se encuentren muy bien. Les escribo para solicitar responder la siguiente encuesta que busca conocer su opinión sobre la nivelación realizada la semana pasada, ya que OTIC Sofofa solicita sus opiniones para poder avanzar. https://forms.gle/kfPLNex8nXvzScmHA
+Favor confirmar cuando conteste la encuesta.
+Saludos.
+Google DocsGoogle Docs
+Encuesta repaso  BOTIC-SOFOF-22-02-05-0010
+Estimado(a), buen día. Favor solicitamos contestar la siguiente encuesta que requiere OTIC Sofofa para obtener su feedback sobre la nivelación realizada en estas 7 sesiones programadas. (39 kB)
+https://forms.gle/kfPLNex8nXvzScmHA
+
+:white_check_mark:
+2
+
+
+
+Adviser - Carlos Maldonado Ruiz
+  12:26 AM
+@here Cabe agregar que el día 04 de septiembre se retoman las clases con normalidad.
+El día 05 y 06 de septiembre serán para desarrollar el sprint del módulo 7.
+El día 07 de septiembre iniciarán con el módulo 8 de Desarrollo de portafolio de un producto digital, teniendo fecha de examen de certificación el día 12 de septiembre desde las 19:00 a las 23:00 hrs, y podrán entregar su caso desarrollado al día siguiente 13 de septiembre a las 10:00 hrs.
+Los días festivos del mes de septiembre serán sábado 16, lunes 18 y martes 19. Estos días no tendrán clases.
+Último día de clases 20 de septiembre.
+:raised_hands:
+1
+:+1:
+1
+
+
+
+Coordinadora - Aniza Goenaga
+  3:27 PM
+Estimados(as), buenos días.
+Les escribo para solicitar responder la siguiente encuesta que busca conocer su opinión sobre la nivelación realizada la semana pasada, ya que OTIC Sofofa solicita sus opiniones para poder avanzar. https://forms.gle/kfPLNex8nXvzScmHA
+Favor confirmar cuando conteste la encuesta.
+Google DocsGoogle Docs
+Encuesta repaso  BOTIC-SOFOF-22-02-05-0010
+Estimado(a), buen día. Favor solicitamos contestar la siguiente encuesta que requiere OTIC Sofofa para obtener su feedback sobre la nivelación realizada en estas 7 sesiones programadas. (39 kB)
+https://forms.gle/kfPLNex8nXvzScmHA
+
+
+
+Administrativa - Anyeli Mantilla
+  10:39 PM
+Estimados/as estudiantes espero estén muy bien, acá les comparto el documento con los porcentajes de actividades síncronas y asíncronas que llevan hasta ahora.
+Que tengan feliz tarde
+Saludos.-
+PDF
+ 
+
+Sincronía y asincronía - 0010.pdf
+PDF
+
+
+Victor Dides
+  3:01 AM
+Alguien tiene el link se me cayó la conexión
+
+
+Adolfo García
+  1:57 AM
+Hola, llevo un rato intentando entrar a la sesión de zoom por que se me descargó el celular, podrían darme acceso por favor, gracias
+
+
+2 replies
+Last reply 1 month agoView thread
+
+
+Coordinadora - Aniza Goenaga
+  3:05 PM
+Estimados(as)  participantes,
+Queremos informar sobre un mantenimiento programado en nuestra plataforma de enseñanza, nodo virtual. Este mantenimiento es esencial para mejorar la calidad de su experiencia de aprendizaje en línea. Aquí están los detalles clave de esta acción:
+Fecha y Hora del Mantenimiento:
+Fecha: domingo 17 de Septiembre.
+Hora de inicio: 00:01 (Hora local de Chile continental)
+Hora de finalización: 23:59 (Hora local de Chile continental)
+Motivo del Mantenimiento: Actualización de sistema operativo de nuestros servidores para garantizar un entorno seguro y eficiente.
+Apoyo Técnico: Si necesitas asistencia técnica, nuestro equipo de soporte está disponible en soporte@awakelab.cl.
+Agradecemos tu comprensión y colaboración en este esfuerzo de mantenimiento para mejorar tu experiencia de aprendizaje en línea.
+Atentamente,
+
+
+Adviser - Carlos Maldonado Ruiz
+  10:41 PM
+@here Chicos consulte con coordinación sus duda y en respuesta es lo siguiente:
+Todos aquellos que desarrollen el examen deben tener su cámara encendida. En caso contrario puede estar con su cámara apagada, pero que entregue el documento en blanco.
+pero si está crítico en % de asistencia le recomiendo conectarse igual y decir presente para que no se vea afectado el % final de asistencia para la aprobación del bootcamp.
+Con respecto a Bootstrap, pueden utilizarlo.
+Con respecto a la base de datos, la prueba dice claramente, que deben utilizar ORM de Django y que en caso de no utilizar ORM, deben generar el script de las tablas en el proyecto. Sin embargo, la rúbrica evalúa si utilizan ORM del framework, Django.
+:+1::skin-tone-2:
+1
+
+
+
+Carlos Farías
+  12:05 AM
+Muchas gracias por la información
+
+
+Administrativa - Anyeli Mantilla
+  7:05 PM
+Estimados/as estudiantes espero estén muy bien, acá les comparto el documento con los porcentajes de actividades síncronas y asíncronas que llevan hasta ahora.
+Que tengan feliz tarde
+Saludos.-
+PDF
+ 
+
+Sincronía y asincronía - 0010.pdf
+PDF
+
+
+Adolfo García
+  12:20 AM
+Aaa se me salio la reunion justo cuando pasaban lista
+12:20
+Me pueden dar el link porfa
+
+
+ASL - Hancy Morales
+  8:52 PM
+Buenas tardes , espero se encuentren muy bien , les comento que en base a una solicitud realizada sobre el video del Modulo 8 , en cual referían que había problemas ya que el video señalaba que podían recibir calificación , este fue revisado y presenta 0% de ponderación, por lo que no presentara interferencia en la calificación , les comento que para que  la actividad se encuentre completada solo deben visualizar el video , ¡Que tenga feliz tarde! Saludos
+
+
+caterin mendez
+  1:22 PM
+Estimada aniza y compañeros buenos dias, junto con saludar queria saber por que aún la plataforma del curso no esta habilitada, se suponia que eran 24 horas de mantenimiento del dia 17 nos encontramos a dia 19 y aun sigue igual, espero una respuesta concreta y ademas que se nos devuelva retroactivamente los dias que la plataforma se a encontrado inhabilitada para el acceso para completar los trabajos pendientes del curso, es minimo un dia mas y contando ya que no corresponde que ocurran estas cosas como muchas que han ocurrido pero me gustaria tener respuesta concreta ojalá durante el dia de hoy, hay gente que trabajamos y estudiamos y ud no son empaticos en ese sentido, minimo que la plataforma la cierren el dia viernes no el miercoles por que nos han descontado muchas horas de las que podriamos haber avanzado con nuestroa trabajos en estas fechas de feriados, sin mas preambulo y esperando tener una buena acogida y para no tener que escalar a superiores, saluda atte a ud caterin mendez.
+PD: esto fue enviado el dia 12:
+Estimados(as)  participantes,
+Queremos informar sobre un mantenimiento programado en nuestra plataforma de enseñanza, nodo virtual. Este mantenimiento es esencial para mejorar la calidad de su experiencia de aprendizaje en línea. Aquí están los detalles clave de esta acción:
+Fecha y Hora del Mantenimiento:
+Fecha: domingo 17 de Septiembre.
+Hora de inicio: 00:01 (Hora local de Chile continental)
+Hora de finalización: 23:59 (Hora local de Chile continental)
+Motivo del Mantenimiento: Actualización de sistema operativo de nuestros servidores para garantizar un entorno seguro y eficiente.
+Apoyo Técnico: Si necesitas asistencia técnica, nuestro equipo de soporte está disponible en soporte@awakelab.cl.
+Agradecemos tu comprensión y colaboración en este esfuerzo de mantenimiento para mejorar tu experiencia de aprendizaje en línea.
+Atentamente,
+:+1:
+1
+
+
+
+caterin mendez
+  1:31 PM
+Screenshot_20230919-083059.png
+ 
+Screenshot_20230919-083059.png
+
+
+Romina Velasco
+:speech_balloon:  3:44 PM
+Devuelvan el nodo porfa, ocuparíamos estos días para ponernos al dia y obiamente no hemos podido, asi como dice Catherin tienen que devolvernos estos dias después del 20
+
+
+Luis Rubio Ramírez
+  1:45 PM
+Buenos días, cuando pretenden habilitar el curso ya qué desde el sábado 16 se encuentra sin acceso perdimos todos estos días par a poder subir a la plataforma trabajos atrasados, se supone que hoy es la última clase o por último que alguien de alguna explicación de lo que sucede 
+@Aniza Goenaga - Coordinadora
+
+@Anyeli Mantilla - Administrativo
+ 
+@ASL - Hancy Morales
+Screenshot_20230920_083954_com.android.chrome.jpg
+ 
+Screenshot_20230920_083954_com.android.chrome.jpg
+:+1:
+1
+
+
+
+Adviser - Carlos Maldonado Ruiz
+  1:51 PM
+Buen día!
+estimado 
+@Juan Rangel
+ los chicos tienen problemas con la plataforma.
+usted les podría ayudar por fa
+
+1 reply
+26 days agoView thread
+
+
+Xabier Coloma
+  2:27 PM
+Buenos días, junto con saludarles y apoyando lo planteado por mis compañeros, espero que se nos pueda notificar a tiempo ya que hoy es el ultimo día y por consiguiente el ultimo sprint, al menos que se nos informe que se está haciendo y a que hora debería estar solucionado el problema.
+
+
+Coordinadora - Aniza Goenaga
+  3:57 PM
+Estimados(as), esperando que hayan tenido unas lindas fiestas.
+Les comento que el nodo se encuentra habilitado, podrán acceder al curso y avanzar en sus actividades. Nos encontramos gestionando una solicitud de prórroga de extensión de plazo de cierre del nodo para que puedan completar sus actividades pendientes. OTIC Sofofa nos tiene que validar esta solicitud, una vez que recibamos su respuesta les estaremos informando por este medio y vía correo electrónico.
+Nos vemos hoy en su última jornada.
+Saludos. (edited) 
+:white_check_mark:
+1
+
+
+
+Coordinadora - Aniza Goenaga
+  8:21 PM
+Estimados(as), buenas tardes.
+Favor revisar su porcentaje de consumo de actividades en el nodo, todos los cuadros deben estar en color verde, si tienen alguno en azul favor revisar que actividad tienes pendiente de entrega, al mismo tiempo te solicitamos que puedas dar aviso al adviser a cargo de tu curso la entrega de actividades pendientes para que el equipo docente pueda ir a calificar.
+Hemos solicitado autorización a OTIC Sofofa para que se extienda la fecha de cierre del nodo. Esta solicitud fue ingresada con la finalidad que puedas completar de cargar tus actividades pendientes y así cumplir con el 100% de consumo de actividades, ya que es un requisito de aprobación del bootcamp. Tendrán plazo hasta el día lunes 25 de septiembre a las 12:00 hrs.
+Favor cumplir con el tiempo establecido, ya que no podremos solicitar otra extensión. Espero que estos días sean de provecho para ponerte al día en lo pendiente.
+Que tengan un excelente día.
+Saludos.
+
+
+Romina Velasco
+:speech_balloon:  12:21 AM
+Consulta, cuando van a arreglar lo del promedio del modulo 7???
+
+1 reply
+26 days agoView thread
+
+
+Coordinadora - Aniza Goenaga
+  12:30 AM
+Estimados(as), buenas tardes.
+Espero que se encuentren bien. Queremos informar sobre un importante proceso de mantenimiento programado en nuestra plataforma de enseñanza “Nodo Virtual”. Este mantenimiento tiene como objetivo garantizar que la plataforma funcione de manera óptima y confiable, lo que es fundamental para su experiencia de aprendizaje en línea.
+Fecha y Hora del Mantenimiento:
+Fecha: Domingo 24 de septiembre
+Hora de inicio: 00:01 (hora local de Chile continental)
+Hora de finalización: 23:59 (hora local de Chile continental)
+Motivo del Mantenimiento: El motivo principal de este mantenimiento es llevar a cabo una actualización del Sistema Operativo de nuestros servidores. Esta actualización es esencial para asegurar un entorno seguro y eficiente para todos ustedes, además de implementar mejoras que optimizarán su experiencia de aprendizaje en línea.
+Durante este período, la plataforma estará fuera de servicio para permitir que se realicen las actualizaciones necesarias. Queremos destacar la importancia de esta acción para mantener la integridad de nuestros servicios y brindarles una experiencia de aprendizaje ininterrumpida.
+Nuestro equipo técnico estará trabajando diligentemente para minimizar cualquier inconveniente o riesgo, y esperamos que la plataforma esté de nuevo en línea el día lunes 25 de septiembre. Agradecemos su comprensión y cooperación en esta tarea.
+Si tienen alguna pregunta o inquietud adicional sobre este proceso de mantenimiento, no duden en ponerse en contacto con soporte técnico en soporte@awakelab.cl.
+Gracias por su atención y comprensión.
+Atentamente,
+
+
+2 replies
+Last reply 26 days agoView thread
+
+
+Awaker - Mabel Ossandon
+  12:30 AM
+https://www.linkedin.com/in/mabel-ossand%C3%B3n-trejo
+
+
+Xabier Coloma
+  12:31 AM
+www.linkedin.com/in/xabiercoloma
+
+
+Sara Corvalan
+  12:33 AM
+https://www.linkedin.com/in/sara-corvalan-1051411b7/
+
+
+Natalia Ponce
+  12:33 AM
+https://www.linkedin.com/in/natalia-fernanda-ponce-%C3%A1vila-408262226/
+
+
+Carlos Farías
+  12:38 AM
+https://www.linkedin.com/in/carlos-farias-832b6546/
+
+
+Camila Valdebenito Leiva
+  12:39 AM
+https://www.linkedin.com/in/camilavaldebenitoleiva/?locale=es_ES
+
+
+Adviser - Carlos Maldonado Ruiz
+  12:41 AM
+https://www.youtube.com/watch?v=yKPobsSXTEE
+YouTubeYouTube | Diario Carga Positiva
+🔝🙃TUTORIAL LINKEDIN paso a paso | Destaca tu perfil | EJEMPLO 
+
+
+
+Sidney Corey Lazo Ramírez
+  12:46 AM
+https://www.linkedin.com/in/sidney-lazo-ram%C3%ADrez-05b08675/
+
+
+Nicolás Labbé Rodríguez
+  12:50 AM
+www.linkedin.com/in/nicolás-labbé-rodríguez
+
+
+caterin mendez
+  12:51 AM
+https://www.linkedin.com/in/caterin-m%C3%A9ndez-estay-130354160/
+
+
+Luis Rubio Ramírez
+  12:55 AM
+https://linkedin.com/in/luis-rubio-ramírez
+
+
+Romina Velasco
+:speech_balloon:  12:57 AM
+https://www.linkedin.com/in/rominavelasco/
+
+
+Romina Velasco
+:speech_balloon:  1:02 AM
+replied to a thread:
+Estimados(as), buenas tardes.…
+Aniza porfa que vean el tema de las notas del modulo 7 ya que se esta promediando por una nota mas que no existe ya que habian dos sprint y solo se realizo uno
+
+
+Cristobal Inzunza
+  1:07 AM
+https://www.linkedin.com/in/cristobal-inzunza/
+
+
+Alan Muñoz
+  1:27 AM
+https://www.linkedin.com/in/almubadev/
+
+
+Joaquín Vielma
+  1:31 AM
+https://www.linkedin.com/in/joaqu%C3%ADn-vielma-cruz-700554273/
+
+
+Coordinadora - Aniza Goenaga
+  4:06 PM
+Buenos días, espero estén muy bien.
+Paso a comentarles que ya se encuentra rectificada la nota final del módulo 7, se le quito el % de ponderación al sprint grupal.
+
+
+Cristobal Inzunza
+  5:52 AM
+Noo acaban de activar el mantenimiento y iba a subir algo :c
+
+
+Coordinadora - Aniza Goenaga
+  3:31 PM
+Hola, buenos días.
+Fue informado con días de anticipación que se realizaría mantención en la plataforma.
+
+1 reply
+22 days agoView thread
+
+
+Awaker - Mabel Ossandon
+  1:12 PM
+@Rodrigo Garcia
+ Estimado buenos días, consulta, subió un trabajo al modulo 9, ejercixio indv 1, pienso por la lectura que  al parecer no correaponde, puede verificar por favor, gracias.
+
+
+Awaker - Mabel Ossandon
+  1:33 PM
+@Natalia Ponce
+ Estimada buenos días, subió trabajo grupal 2 en un formato que no puedo abrir, le pido que lo haga en formato PDF O Excel, gracias
+:raised_hands:
+1
+
+
+
+2 replies
+Last reply 21 days agoView thread
+
+
+Cristobal Inzunza
+  3:55 PM
+Buenos días, de casualidad ¿qué significa el ticket verde (aprobado) en el área de calificaciones?
+En el ultimo modulo hay notas que no lo tienen.
+image.png
+ 
+image.png
+
+
+Coordinadora - Aniza Goenaga
+  10:46 PM
+Hola, buenas tardes.
+Los tickets no afectan en nada sus calificaciones y porcentajes de avance en el consumo de actividades.
+Saludos.
+:+1:
+1
+
+
+
+Victor Dides
+  2:39 AM
+Hola, disculpa que me manifieste pero parece que el excel que me enviaron está malo y sin formato porque no se entiende nada, espero que sea un error. Muchas gracias
+
+
+Coordinadora - Aniza Goenaga
+  1:45 PM
+Hola Victor, buenos días.
+Te refieres al Excel con las calificaciones del curso?
+
+
+Victor Dides
+  4:05 PM
+Hola si! Perdón no había visto tu mensaje. A ese excel me refiero el mío en particular se ve horrible, sin formato no se entiende como si fuera con copy/paste sin filtro
+
+
+Xabier Coloma
+  10:14 PM
+Estimado grupo de coordinacion, esperando se encuentren bien, les envié un correo para que porfavor se vuelva a revisar el correo por las notas de examen de certificación ya que no tiene sentido lo enviado vs la rubrica entregada.
+10:15
+PDF
+ 
+
+Examen - rúbrica Python.pdf
+PDF
+
+
+Romina Velasco
+:speech_balloon:  10:31 PM
+No tiene sentido la nota del examen de certificación del excel que nos enviaron versus la nota del examen que nos entregan ahora que es un 3.9 (para todos) aun teniendo puntaje sobre el minimo para aprobar segun la rubrica que ustedes enviaron, 
+@Anyeli Mantilla - Administrativo
+ te envie un correo
+
+
+Adolfo García
+  10:39 PM
+Estoy en misma condición de mis compañeros. Respondí correo a 
+@Anyeli Mantilla - Administrativo
+ sobre mi caso y a la espera de su respuesta.
+
+
+Sara Corvalan
+  10:48 PM
+Yo también estoy en la misma condición que mis compañeros, también envié un correo y respondieron que yo no estoy de acuerdo con la nota cosa que no corresponde a la rúbrica que ustedes mismo dieron, el puntaje y la nota no corresponden 
+@Anyeli Mantilla - Administrativo
+
+1 reply
+6 days agoView thread
+
+
+Romina Velasco
+:speech_balloon:  11:02 PM
+replied to a thread:
+Yo también estoy en la misma condición que mis compañeros, también envié un correo y respondieron que yo no estoy de acuerdo con la nota cosa que no corresponde a la rúbrica que ustedes mismo dieron, el puntaje y la nota no corresponden @Anyeli Mantilla - Administrativo
+Que insolito que respondan eso si ellos mandaron la rubrica de evaluación donde claramente los puntajes que tenemos al parecer todos los participantes del examen de certificación no corresponden a la nota que deberia ser la correspondiente según rubrica. Lo justo es justo y no tiene nada que ver en que si estamos de acuerdo o no con la nota que asignaron que no corresponde al puntaje obtenido 
+@Anyeli Mantilla - Administrativo
+
+
+Romina Velasco
+:speech_balloon:  11:10 PM
+@Aniza Goenaga - Coordinadora
+  :exclamation:
+
+
+Coordinadora - Aniza Goenaga
+  3:42 PM
+Estimados(as), buenos días.
+Les comento que nos encontramos revisando caso a caso junto al docente que evalúo los exámenes en conjunto de las observaciones que Talento Digital para Chile nos entregó posterior a la auditoría de las calificaciones. Dentro del día les estaremos informando más detalles sobre las notas de sus exámenes.
+Desde ya agradecemos su comprensión.
+Saludos.
+
+
+Coordinadora - Aniza Goenaga
+  9:03 PM
+Estimados(as) participantes, buenas tardes.
+Espero que se encuentres bien. Les escribo para comunicar que a raíz de diversos reclamos elevados a Talento Digital para Chile la OTIC Sofofa ha levantado una supervisión administrativa al curso Desarrollo de aplicaciones Full Stack Python, código: BOTIC-SOFOF-22-02-05-0010, en la que ha determinado que todos los participantes del curso deben rendir nuevamente su examen de certificación.
+En virtud de ello, les instamos a responder HOY la siguiente encuesta para determinar la fecha de la rendición de dicho examen.
+Encuesta examen de certificación
+Favor dar acuso de recibo.
+Agradecemos su comprensión.
+Saludos.
+Google DocsGoogle Docs
+Encuesta - Nueva fecha examen de certificación
+A raíz de diversos reclamos elevados a Talento Digital para Chile la OTIC Sofofa ha levantado una supervisión administrativa al curso Desarrollo de aplicaciones Full Stack Python, código: BOTIC-SOFOF-22-02-05-0010, en la que ha determinado que todos los participantes del curso deben rendir nuevamente su examen de certificación.
+En virtud de ello, te instamos a responder HOY la siguiente encuesta para determinar la fecha de la rendición de dicho examen.
+https://forms.gle/Y6kCv3RHNibLHBBZA
+
+
+
+Romina Velasco
+:speech_balloon:  9:05 PM
+Y porque debemos rendir de nuevo el examen si son ustedes los que se equivocaron y nos pusieron un 3.9 que no correspondía versus el puntaje y la nota que debia ser según su propia rubrica!!!! es una real falta de respeto para nosotros que muchos sacrificamos horas de sueño y pasamos para poder terminar
+9:08
+Ustedes juegan con nuestro tiempo solon por no querer hacer las cosas bien (edited) 
+
+
+Romina Velasco
+:speech_balloon:  9:20 PM
+@Aniza Goenaga - Coordinadora
+  la gestion la hicieron ustedes. Ustedes se equivocaron, no nosotros, nosotros cumplimos!!!!ya hicimos el examen! , ahora la responsabilidad es de ustedes de poner las notas que corresponden y tu como cordinadora debes cumplir con lo minimo que es verificar que se haga la pega (edited) 
+
+
+Romina Velasco
+:speech_balloon:  9:30 PM
+@Aniza Goenaga - Coordinadora
+ con mi tiempo no juegan, yo ya cumplí, trasnoche, me esforzé, hice el examen y me saque un 5.5 no un 3.9, haganse cargo!!!
+
+
+caterin mendez
+  9:46 PM
+es una falta de respeto a nuestro tiempo, yo trabajo en esos horarios, el dia de la prueba dormi 2 horas y ¿ AHORA QUIEREN QUE LA AGA OTRA VEZ POR SU INEPTITUD?, ME VAN A PAGAR UDS EL DIA DE FALTA A LA PEGA? lo encuentro insolito y aun peor me da verguenza tener que representar a adalid en alguna ocacion, agradesco solo a mis compañeros y al adviser todo los demas arto pencas.. (edited) 
+
+
+Adolfo García
+  9:49 PM
+@Aniza Goenaga - Coordinadora
+ Esa no es solución. El error es de ustedes y la solución es tan simple como calificar de acuerdo a la rúbrica que ustedes mismos dieron.
+
+
+Xabier Coloma
+  9:49 PM
+Impresentable lo que indican, cumplimos con todo lo solicitado, se les consultó en más de una ocasión las reglas de la certificación, se nos enviaron las evaluaciones con respecto a la rubrica que ustedes mismos indicaron y ahora no la respetan? Nunca he visto esté tipo de decisiones irresponsables y poco serias.
+No veo razón alguna para repetir la certificación.
+
+
+Cristobal Inzunza
+  9:53 PM
+@Aniza Goenaga - Coordinadora
+ ¿Que ocurrio con los trabajos subidos a la plataforma? ¿No los pueden volver a revisar? Estas cosas no pasarían si se hubiese utilizado git para controlar la fecha de entrega de los exámenes.
+9:57
+Hacer la prueba nuevamente se sale de la fecha estimada para la realización del bootcamp. No esta dentro de mis planes que hagan lo que quieran con mi tiempo, un poco de respeto por el trabajo realizado y busquen una nueva solución. Inaceptable.
+
+
+Nicolás Labbé Rodríguez
+  10:07 PM
+@Aniza Goenaga - Coordinadora
+ El error es completamente de ustedes, que fueron inoperantes al revisar y manejar la información de los exámenes.
+
+
+Sara Corvalan
+  10:36 PM
+@Aniza Goenaga - Coordinadora
+ encuentro una falta de respeto todo esto siendo que el error fue de ustedes en no revisar bien lo de la rúbrica y lo único que hicimos fue reclamar nuestro derecho en que se nos colocara la nota bien que nos corresponde por puntaje de la rúbrica, yo no estoy de acuerdo en repetir el examen, con mi tiempo no se juega.
+
+
